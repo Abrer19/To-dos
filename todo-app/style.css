@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.todo-container {
+    width: 300px;
+    text-align: center;
+}
+
+input {
+    width: 70%;
+    padding: 5px;
+}
+
+button {
+    padding: 5px 10px;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+li {
+    list-style: none;
+    margin: 5px 0;
+    text-align: left;
+}
